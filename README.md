@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="wingman-logo.png" alt="Wingman logo" width="180" />
+<img src="https://i.ibb.co/0RV1VJGP/wigman.png" alt="Wingman logo" width="180" />
 
 # Wingman
 
