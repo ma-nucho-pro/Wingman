@@ -1,0 +1,20 @@
+{
+  "name": "wingman",
+  "owner": { "name": "ma-nucho-pro", "url": "https://github.com/ma-nucho-pro" },
+  "metadata": {
+    "description": "One AI context across every tool and every machine",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "wingman",
+      "source": "./integrations/claude-code",
+      "description": "Share project context between Claude Code, Codex, Gemini CLI, Cursor and web chats, across all your computers.",
+      "version": "1.0.0",
+      "author": { "name": "ma-nucho-pro" },
+      "homepage": "https://github.com/ma-nucho-pro/Wingman",
+      "license": "MIT",
+      "keywords": ["context", "memory", "handoff", "sync", "mcp"]
+    }
+  ]
+}

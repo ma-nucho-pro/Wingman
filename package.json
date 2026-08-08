@@ -1,0 +1,44 @@
+{
+  "name": "wingman-ai",
+  "version": "1.0.0",
+  "description": "One AI context across every tool and every machine. Continue in Claude Code what you started in ChatGPT, on any computer.",
+  "type": "module",
+  "bin": {
+    "wingman": "bin/wingman.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "bin",
+    "src",
+    "mcp",
+    "integrations",
+    "INSTALL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "wingman": "node bin/wingman.mjs"
+  },
+  "keywords": [
+    "ai",
+    "context",
+    "memory",
+    "claude-code",
+    "codex",
+    "gemini-cli",
+    "cursor",
+    "mcp",
+    "handoff",
+    "llm"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-nucho-pro/Wingman.git"
+  },
+  "homepage": "https://github.com/ma-nucho-pro/Wingman#readme",
+  "dependencies": {}
+}
