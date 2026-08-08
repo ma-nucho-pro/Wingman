@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="wingman-logo.png" alt="Wingman logo" width="180" />
+
 # Wingman
 
 ### One AI context across every tool and every machine.
