@@ -1,6 +1,10 @@
-<div align="center">
+<!-- manucho-readme-banner:start -->
+<p align="center">
+  <img src="assets/readme/banner.svg" alt="WINGMAN project overview" width="100%">
+</p>
+<!-- manucho-readme-banner:end -->
 
-<img src="https://i.ibb.co/0RV1VJGP/wigman.png" alt="Wingman logo" width="180" />
+<div align="center">
 
 # Wingman
 
